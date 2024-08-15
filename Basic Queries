@@ -1,0 +1,3 @@
+Q1. Write a query to display names of all the employees.
+ANS:
+	SELECT ENAME FROM EMP;
