@@ -23,3 +23,10 @@ Comprehensive Coverage: Topics range from basic SELECT statements to complex joi
 * Advanced users aiming to refine their database optimization techniques.
 
 * Anyone preparing for SQL-related job interviews.
+
+## Technologies Used:
+* SQL (MySQL / Oracle)
+
+## Authors
+
+* [Sahil Shaikh](https://github.com/ssshaikh2112)
